@@ -16,7 +16,7 @@ becoming a web developer, this might make a good article.
 
 - [MSDN Single Page Applications](https://msdn.microsoft.com/en-us/magazine/dn463786.aspx) (Stop at 'Creating the Visual Studio Project')
 - [Modern Web applications overview](http://singlepageappbook.com/goal.html)
-- [Wikipedia](https://en.wikipedia.org/wiki/Single-page_application)
+- [Wikipedia](https://en.wikipedia.org/wiki/Single-page_application) (Just the introduction and History sections)
 - [SPA and the Single Page Myth](https://johnpapa.net/pageinspa/)
 
 ## Define "single-page application" (SPA)
