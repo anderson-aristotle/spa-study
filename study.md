@@ -1,7 +1,14 @@
 # Single-Page Applications Study
 
 Use your favorite search engine to research and answer the following questions
-(no prior knowledge is expected). Strive for understanding the definitions
+(no prior knowledge is expected).
+
+In your responses, be sure to cite any relevant sources you consulted in your
+search. We ask you to write responses in your own words in order to see how you
+process what you've read. Please do not respond with direct quotes from source
+material. Instead, digest what you've read and repeat it in your own voice.
+
+Strive for understanding the definitions
 themselves, since you may be asked in an interview to define "single-page
 applications" (SPAs) in your own words.
 
