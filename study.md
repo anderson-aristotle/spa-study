@@ -13,7 +13,7 @@ themselves, since you may be asked in an interview to define "single-page
 applications" (SPAs) in your own words.
 
 All your projects in this program will be SPAs, so you'll likely internalize
-this defintion over time.
+this definition over time.
 
 It might be a good idea to come back to this later and see if you'd still answer
 in the same way! If you have a blog you're using to journal your experience
@@ -58,7 +58,7 @@ help manage view-state?
 
 ## Define the advantages of an SPA over a traditional application
 
-What are the advantages of a single page application over a traditional appliction?
+What are the advantages of a single page application over a traditional application?
 
 ```md
 <!-- your answer here -->
