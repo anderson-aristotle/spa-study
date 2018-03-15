@@ -8,9 +8,9 @@
 
 ## Objectives
 
-- Define "single-page application" (SPA)
-- Define "page" as used by non-developers
-- Define "view" and "view-state" within the context of SPAs
+- Define "single-page application" (SPA).
+- Define "page" as used by non-developers.
+- Define "view" and "view-state" within the context of SPAs.
 
 ## Instructions
 
