@@ -21,17 +21,16 @@ becoming a web developer, this might make a good article.
 
 ## Readings
 
-- [MSDN Single Page Applications](https://msdn.microsoft.com/en-us/magazine/dn463786.aspx)
+- [MSDN Single-Page Applications](https://msdn.microsoft.com/en-us/magazine/dn463786.aspx)
   (Stop at `Creating the Visual Studio Project`)
 - [Modern Web applications overview](http://singlepageappbook.com/goal.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Single-page_application)
   (Just the `Introduction` and `History` sections)
-- [SPA and the Single Page Myth](https://johnpapa.net/pageinspa/)
+- [SPA and the Single-Page Myth](https://johnpapa.net/pageinspa/)
 
 ## Define "single-page application" (SPA)
 
-In your own words, define what a SPA is. In your answer, be sure to cite any
-relevant sources you consulted in your search.
+In your own words, define what a SPA is.
 
 ```md
 <!-- your answer here -->
@@ -39,7 +38,7 @@ relevant sources you consulted in your search.
 
 ## Define "page" as used by non-developers
 
-What do users mean when they say "page"? What did you mean before your started
+What do users mean when they say "page"? What did you think before you started
 your search to define SPAs?
 
 ```md
@@ -58,15 +57,15 @@ help manage view-state?
 
 ## Define the advantages of an SPA over a traditional application
 
-What are the advantages of a single page application over a traditional application?
+What are the advantages of a single-page application over a traditional application?
 
 ```md
 <!-- your answer here -->
 ```
 
-## List some technologies used to make SPA's
+## List some technologies used to make SPAs
 
-What are some of the tools used to create single page applications?
+What are some of the tools used to create single-page applications?
 
 ```md
 <!-- your answer here -->
